@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/LevitKanner/Portfolio)
 
-- 💬 Ask me about **react, .net core**
+- 💬 Ask me about **React, Vue, .Net Core, C#, Typescript**
 
 - 📫 How to reach me **lkanner21@gmail.com**
 
