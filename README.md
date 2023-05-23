@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Levit Osei-Wusu</h1>
-<h3 align="center">I'm a software developer with a passion for creating innovative solutions and bringing innovative ideas to life. With years of experience in the software industry, I'm always looking for new challenges and opportunities to make a difference. Let's work together to make the world a better place, one code at a time!</h3>
+<h3 align="center">I try to build cool stuff sometimes </h3>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/LevitKanner/Portfolio)
 
