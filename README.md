@@ -1,23 +1,28 @@
-<h1 align="center">Hello 👋, I'm Levit Osei-Wusu</h1>
-<h3 align="center">I try to build cool stuff sometimes </h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/LevitKanner/Portfolio)
+# Hello, World! 👋
 
-- 💬 Ask me about **React, Vue, .Net Core, C#, Typescript**
+Welcome to my corner of the digital universe! 🚀 I'm Levit Osei-Wusu, a passionate software engineer who thrives on turning innovative ideas into beautifully crafted digital experiences. With a diverse skill set and an insatiable curiosity, I've journeyed through the realms of code, leaving behind trails of React, Vue, Next.js, Nuxt.js, C#, .NET Core, Flutter, GraphQL, and TypeScript.
 
-- 📫 How to reach me **lkanner21@gmail.com**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/levitkanner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="levitkanner" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/levit osei-wusu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levit osei-wusu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11344705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11344705" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lkanner21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lkanner21" height="30" width="40" /></a>
-</p>
+- Frontend: React, Vue, Next.js, Nuxt.js, Flutter
+- Backend: C#, .NET Core, GraphQL
+- Language of Choice: C# & TypeScript enthusiast 🚀
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> -->
+## 💡 What I Do
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levitkanner&show_icons=true&locale=en&layout=compact" alt="levitkanner" /></p> -->
+I sculpt user interfaces that don't just look good but feel intuitive and seamless. My code is a blend of logic and artistry, meticulously crafted to translate ideas into reality. Whether it's wrangling state in complex applications, optimizing performance, or architecting elegant solutions, I thrive on challenges that push the boundaries of my knowledge.
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levitkanner&show_icons=true&locale=en" alt="levitkanner" /></p> -->
+## 🌱 Learning Never Stops
+
+In the ever-evolving landscape of technology, I am an eternal student. I believe that continuous learning is key to staying ahead in the game. From experimenting with new libraries to diving deep into emerging paradigms, I'm always eager to add new tools to my ever-growing toolkit.
+
+## 🎵 Outside the IDE
+
+When I'm not lost in lines of code, you might find me exploring the great outdoors, indulging in sci-fi movies and hey, code is not the only thing I lift! 💪. A healthy work-life balance fuels my creativity and keeps the gears turning.
+
+## 📫 Let's Connect
+
+Are you passionate about tech and innovation? Let's collaborate and create something amazing together! Reach out to me via [LinkedIn](https://www.linkedin.com/in/levit-osei/) or [Twitter](https://twitter.com/LevitKanner). I'm always up for a good chat, some coding banter, or even sharing book recommendations!
+
+Remember, every line of code is a step towards shaping the future. Let's code that future together! 🌟
